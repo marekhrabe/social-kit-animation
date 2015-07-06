@@ -4,7 +4,7 @@ Edge Animate Project of Soical Kit logo animation used in our Christmas newslett
 
 ## E-mail Newsletter
 
-This is a ton of JavaScript and CSS3 together. How to get all that into e-mail newsletter where <tables> are the holy grail? 
+This is a ton of JavaScript and CSS3 together. How to get all that into e-mail newsletter where `<tables>` are the holy grail? 
 
 I actually made a screencast of final animation in my Chrome, took frames from the video and put them into PhotoShop's timeline. Then I masked background out of it and finally tweaked some timing of frames and exported to gif. It seems pretty simple, but it took some time to get the animation just right.
 
